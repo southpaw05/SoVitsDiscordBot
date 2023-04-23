@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33617.297
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoVitsBot", "SoVitsBot\SoVitsBot.csproj", "{7E2000F6-F7E2-475E-9120-C7BE38A1B0AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E2000F6-F7E2-475E-9120-C7BE38A1B0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2000F6-F7E2-475E-9120-C7BE38A1B0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2000F6-F7E2-475E-9120-C7BE38A1B0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2000F6-F7E2-475E-9120-C7BE38A1B0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8F394FB-D79A-4BBB-A11C-3ECC26192051}
+	EndGlobalSection
+EndGlobal
