@@ -9,3 +9,5 @@ Make a file named "config.ini" by the executable, and put [Bot] Token = "" (and 
 Change/replace the paths in VoiceCommands.cs to the paths on your own computer.
 
 Modify GetModelPath and GetConfigPath to match your local models
+
+Modify "fileName" in the Process Start for SO-VITS-SVC to your local installation
